@@ -108,7 +108,7 @@ Use this with reverse proxies like Nginx and HTTPS to ensure full-stack security
 
 ## 🧑‍🔧 Author
 
-**Made with 💛 by Mehyab**
+**Made with 💛 by Mehtab**
 
 ---
 
